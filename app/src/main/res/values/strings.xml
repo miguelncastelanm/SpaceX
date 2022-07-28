@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">SpaceX</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="wait">Espere un momento porfavor</string>
+    <string name="base_url">https://api.spacexdata.com/v5/</string>
+    <string name="timeout">100000</string>
+    <string name="todo">TODO</string>
+    <string name="titulo">titulo</string>
+    <string name="descripci_n">descripcion</string>
+    <string name="defaultUrl">https://graffica.info/wp-content/uploads/2017/07/logo-nasa-fondo-oscuro.jpg</string>
+</resources>
